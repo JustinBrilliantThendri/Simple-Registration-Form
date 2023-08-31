@@ -45,5 +45,7 @@
         <br><br><br>
         <button type="submit" onclick="return confirm('Apakah anda yakin untuk membuatnya?');">Daftar</button>
     </form>
+    <br>
+    <p>&copy; - <?= date("Y") ?></p>
 </body>
 </html>

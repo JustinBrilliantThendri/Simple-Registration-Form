@@ -50,5 +50,7 @@
             </tr>
         <?php endforeach; ?>
     </table>
+    <br>
+    <p>&copy; - <?= date("Y") ?></p>
 </body>
 </html>

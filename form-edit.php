@@ -61,5 +61,7 @@
         <br><br><br>
         <button type="submit" onclick="return confirm('Apakah anda yakin untuk mengeditnya?');">Edit</button>
     </form>
+    <br>
+    <p>&copy; - <?= date("Y") ?></p>
 </body>
 </html>
